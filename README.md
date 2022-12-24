@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matin Keivanloo</h1>
 <h3 align="center">A Computer Science student from Vancouver Canada</h3>
 
-<img align=“center” alt=“Coding” width=“400” src=“https://miro.medium.com/max/1360/0*k-Snk2qOam5GZ-_S.gif”>
-
 <p align="left"> <a href="https://twitter.com/matin14k98" target="blank"><img src="https://img.shields.io/twitter/follow/matin14k98?logo=twitter&style=for-the-badge" alt="matin14k98" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks**
