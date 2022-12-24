@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matin Keivanloo</h1>
 <h3 align="center">A Computer Science student from Vancouver Canada</h3>
 
-<img alig="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" />
+<img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" />
 
 <p align="left"> <a href="https://twitter.com/matin14k98" target="blank"><img src="https://img.shields.io/twitter/follow/matin14k98?logo=twitter&style=for-the-badge" alt="matin14k98" /></a> </p>
 
