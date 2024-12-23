@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/matin14k98" target="blank"><img src="https://img.shields.io/twitter/follow/matin14k98?logo=twitter&style=for-the-badge" alt="matin14k98" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📝 I regularly write articles on [https://dorciaweb.ca/blog/](https://dorciaweb.ca/blog/)
 
