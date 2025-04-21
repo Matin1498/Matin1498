@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matin Keivanloo</h1>
-<h3 align="center">A Computer Science student from Vancouver Canada</h3>
+<h3 align="center">A Computer Science graduate from Vancouver Canada</h3>
 
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" />
 
