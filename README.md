@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 📝 I regularly write articles on [https://dorciaweb.ca/blog/](https://dorciaweb.ca/blog/)
-
-- 💬 Ask me about **Web Design**
-
 - 📫 How to reach me **matin.keivanloo@yahoo.ca**
 
 <h3 align="left">Connect with me:</h3>
